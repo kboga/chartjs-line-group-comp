@@ -1,8 +1,8 @@
 {
-  "name": "ChartjsLineGroupCompare",
+  "name": "chartjs-line-group-comp",
   "version": "1.0.0",
   "description": "Chartjs extension for comparing a group of Line graphs",
-  "main": "chartjs-line-group-comp",
+  "main": "Chart.LineCompare.js",
   "keywords": [
     "Chartjs"
   ],
