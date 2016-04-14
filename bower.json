@@ -11,7 +11,7 @@
   ],
   "license": "MIT",
   "homepage": "https://github.com/kboga/chartjs-line-group-comp",
-    "ignore": [
+  "ignore": [
     "**/.*",
     "node_modules",
     "bower_components",
